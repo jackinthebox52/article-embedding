@@ -1,0 +1,1 @@
+Prototyping a search algorithm for binary match of topics between news articles

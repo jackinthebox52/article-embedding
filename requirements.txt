@@ -1,0 +1,9 @@
+ipykernel 
+tensorflow
+tensorflow_hub
+matplotlib
+pandas
+seaborn
+feedparser
+numpy
+absl-py
